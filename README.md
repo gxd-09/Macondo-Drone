@@ -18,9 +18,10 @@ Power & Tools: Ovonic 6S 1300mAh batteries (x2) and a NewBeeDrone practice solde
 Total Estimated Budget: £286.72 (~$387.27 USD)
 
 Assembly & Implementation Plan
-Soldering Preparation: Practice wire tinning and pad connections on the practice kit before soldering motor leads, XT60 power connections, and a noise-filtering capacitor to the ESC.
-Stack & Frame Assembly: Mount the motors to the carbon fiber arms and soft-mount the FC/ESC stack using rubber grommets to isolate gyro sensors from motor vibration.
-Peripherals Integration: Wire the Caddx camera, SpeedyBee VTX, and SoloGood ELRS receiver to their designated FC UART pads.
+Soldering Preparation: Practice wire tinning and pad connections on the practice kit before soldering motor leads, XT60 power connections, and a noise-filtering capacitor to the ESC.<br/>
+Stack & Frame Assembly: Mount the motors to the carbon fiber arms and soft-mount the FC/ESC stack using rubber grommets to isolate gyro sensors from motor vibration. <br/>
+Peripherals Integration: Wire the Caddx camera, SpeedyBee VTX, and SoloGood ELRS receiver to their designated FC UART pads.<br/>
+
 Software Configuration: Flash Betaflight firmware, calibrate accelerometer/gyro sensors, bind the ELRS receiver, test motor direction, and conduct bench testing before attaching propellers for flight trials.
 
 The Onshape file containing the 3D-printable drone frame can be found here:
